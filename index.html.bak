@@ -26,12 +26,12 @@ Reflux Templatehttps://templatemo.com/tm-531-reflux-->
           <div class="container">
             <div class="image"> <a href="#"><img src="assets/images/author-image.jpg"
                   alt=""></a> </div>
-            <div class="author-content">
-              <h4><br>
-              </h4>
-              <span>Badgers Grow Lab</span><a href="https://www.instagram.com/saulgoodmanog/"
-                target="_blank"><span><img src="file:///C:/Users/HoneyBadger/Documents/templatemo_531_reflux/assets/images/ins.png"
-                    alt="" style="width: 195px; height: 20px;"></span></a> </div>
+            <div class="author-content"> <span>Badgers Grow Lab</span><a href="https://www.instagram.com/saulgoodmanog/"
+                target="_blank"><span><br>
+                </span></a></div>
+            <div class="author-content"><br>
+              <a href="https://www.instagram.com/saulgoodmanog/" target="_blank"><span></span></a>
+            </div>
             <nav class="main-nav" role="navigation">
               <ul class="main-menu">
                 <li><a href="#section1">About Me</a></li>
@@ -437,19 +437,73 @@ Reflux Templatehttps://templatemo.com/tm-531-reflux-->
               target="_blank"><strong>Seedsman White Widow Fem&nbsp;&nbsp;
                 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
                 <img src="file:///C:/Users/HoneyBadger/Documents/templatemo_531_reflux/assets/images/wwidow.png"
-                  alt="" style="width: 260px; height: 263px;"></strong></a>
-            <div class="section-heading">
-              <p></p>
-            </div>
+                  alt="" style="width: 260px; height: 263px;"></strong></a> </div>
+          <div class="container"><br>
+          </div>
+          <div class="container">
+            <h2>My Work</h2>
+            <div class="line-dec"></div>
+            The following is a collection of various cannabis strains that I’ve
+            had the opportunity to cultivate over the years. Each strain brings
+            its own unique characteristics, such as differences in growth
+            patterns, flavor profiles, and effects. Through my experience with
+            these different strains, I’ve gained valuable insight into how each
+            one responds to various growing techniques, environments, and
+            nutrient regimens. This has allowed me to refine my cultivation
+            methods and tailor my approach to maximize yields and quality, while
+            also exploring the diversity that cannabis genetics have to offer.
             <div class="row">
-              <div class="right-content">
-                <div class="container">
-                  <form id="contact" action="" method="post">
-                    <div class="row">
-                      <div class="col-md-6"> </div>
-                    </div>
-                  </form>
+              <div class="seeds-wrapper">
+                <form class="seeds-toolbar"> <label> <span>all</span></label>
+                  <label> <span>plants</span></label> <label> <span>SCROGS</span></label>
+                  <label> <span>Flowers</span></label> </form>
+                <div class="seeds-box">
+                  <div class="seeds-item" data-type="nature">
+                    <figure class="snip1321"> <img src="assets/images/portfolio-01.jpg"
+                        alt="sq-sample26"></figure>
+                  </div>
                 </div>
+              </div>
+            </div>
+            <div class="seeds-box">
+              <div class="seeds-item" data-type="nature">
+                <figure class="snip1321"> <img src="assets/images/portfolio-01.jpg"
+                    alt="sq-sample26"> <figcaption> <a href="assets/images/portfolio-01.jpg"
+                      data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
+                    <h4>First Title</h4>
+                    <span>free to use our template</span> </figcaption> </figure>
+              </div>
+              <div class="seeds-item" data-type="people">
+                <figure class="snip1321"> <img src="assets/images/portfolio-02.jpg"
+                    alt="sq-sample26"> <figcaption> <a href="assets/images/portfolio-02.jpg"
+                      data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
+                    <h4>Second Title</h4>
+                    <span>please tell your friends</span> </figcaption> </figure>
+              </div>
+              <div class="seeds-item" data-type="animals">
+                <figure class="snip1321"> <img src="assets/images/portfolio-03.jpg"
+                    alt="sq-sample26"> <figcaption> <a href="assets/images/portfolio-03.jpg"
+                      data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
+                    <h4>Item Third</h4>
+                    <span>customize anything</span> </figcaption> </figure>
+              </div>
+              <div class="seeds-item" data-type="people">
+                <figure class="snip1321"> <img src="assets/images/portfolio-04.jpg"
+                    alt="sq-sample26"> <figcaption> <a href="assets/images/portfolio-04.jpg"
+                      data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
+                    <h4>Item Fourth</h4>
+                    <span>Re-distribution not allowed</span> </figcaption> </figure>
+              </div>
+              <div class="seeds-item" data-type="nature">
+                <figure class="snip1321"> <img src="assets/images/portfolio-05.jpg"
+                    alt="sq-sample26"> <figcaption> <a href="assets/images/portfolio-05.jpg"
+                      data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
+                    <h4>Fifth Awesome</h4>
+                    <span>Ut sollicitudin risus</span> </figcaption> </figure>
+              </div>
+              <div class="seeds-item" data-type="animals">
+                <figure class="snip1321"> <img src="assets/images/portfolio-06.jpg"
+                    alt="sq-sample26"></figure>
               </div>
             </div>
           </div>
@@ -459,7 +513,7 @@ Reflux Templatehttps://templatemo.com/tm-531-reflux-->
       <!-- Bootstrap core JavaScript -->
       <script src="vendor/jquery/jquery.min.js"></script>
       <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-      <script src="assets/js/isotope.min.js"></script>
+      <script src="assets/js/seeds.min.js"></script>
       <script src="assets/js/owl-carousel.js"></script>
       <script src="assets/js/lightbox.js"></script>
       <script src="assets/js/custom.js"></script>
